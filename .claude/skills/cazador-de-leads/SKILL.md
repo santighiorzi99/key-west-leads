@@ -1,30 +1,20 @@
 # /cazador-de-leads
 
-Busca **sin intervención** negocios locales de Key West (cualquier rubro) cuyo sitio web tenga señales claras de necesitar arreglo, corre recon completo (capturas + señales técnicas) sobre los 5 mejores candidatos de la semana, arma un diagnóstico corto de cada uno, y deja todo commiteado en este repo para revisión.
+Busca **sin intervención** negocios locales de Key West (cualquier rubro) cuyo sitio web tenga señales claras de necesitar arreglo, diagnostica los 5 mejores candidatos de la semana en base a su HTML/contenido público, y deja todo commiteado en este repo para revisión.
 
-Esta skill **solo descubre y diagnostica** — no arma demo, no despliega, no escribe propuesta ni email. Para eso, una vez que el usuario elige un candidato de la lista, se usa la skill hermana `cazador-de-webs` (repo `stinkin-crawfish-kw`) pasándole el nombre + URL de ese negocio puntual.
+Esta skill **solo descubre y diagnostica** — no arma demo, no despliega, no escribe propuesta ni email. Para eso, una vez que el usuario elige un candidato de la lista, se usa la skill hermana `cazador-de-webs` (repo `stinkin-crawfish-kw`) pasándole el nombre + URL de ese negocio puntual (esa skill sí saca capturas reales con Playwright, corriendo localmente en la máquina del usuario).
 
 Pensada para correr **una vez por semana vía cron** (routine en claude.ai/code/routines), en un sandbox en la nube sin estado entre corridas — cada corrida parte de un checkout limpio de este repo. También se puede correr a mano si el usuario pide "buscá negocios para prospectar" o similar.
 
+**Nota técnica:** esta skill diagnostica solo con `WebFetch` (HTML/contenido), sin capturas de pantalla. Se probó correr Playwright/Chromium dentro del sandbox en la nube y el navegador headless no logra completar el handshake HTTPS a través del proxy de salida del sandbox (`net::ERR_CONNECTION_RESET`, confirmado no resoluble incluso configurando el proxy explícitamente y confiando su CA) — es una limitación del entorno, no del sitio target. `WebFetch` sí funciona bien y da señales suficientes para diagnosticar.
+
 ## Resolver `SKILL_DIR`
 
-`SKILL_DIR` es el directorio que contiene este `SKILL.md`. Los scripts viven en `SKILL_DIR/scripts/`.
+`SKILL_DIR` es el directorio que contiene este `SKILL.md`.
 
 ```bash
-SKILL_DIR="<ruta absoluta del directorio que contiene este SKILL.md>"
 REPO_ROOT="<raíz del repo, dos niveles arriba de .claude/skills/cazador-de-leads>"
 ```
-
-## Setup (cada corrida — el sandbox es efímero, no hay venv persistente)
-
-```bash
-python3 -m venv /tmp/cazador-leads-venv
-/tmp/cazador-leads-venv/bin/pip install playwright
-/tmp/cazador-leads-venv/bin/playwright install --with-deps chromium
-PYBIN=/tmp/cazador-leads-venv/bin/python
-```
-
-No commitear el venv al repo (no hace falta — se reinstala en cada corrida).
 
 ## Paso 1 — Ver qué ya se prospectó
 
@@ -38,26 +28,13 @@ restaurantes, bares, cafeterías, tiendas de souvenirs, alquiler de bicis/scoote
 
 Elegí 2-3 rubros para esta semana. Usá `WebSearch` con queries tipo `"<rubro> key west florida"`, `"best <rubro> key west site:yelp.com"`, o directorios locales (Key West Chamber of Commerce, TripAdvisor, Yelp) para armar un pool de **~15-20 negocios** con nombre + URL de su sitio propio (no cuenta si solo tienen página de Facebook/Instagram sin sitio — anotalo igual, es una señal fuerte de "necesita sitio").
 
-## Paso 3 — Prefiltro liviano (sin Playwright todavía)
+## Paso 3 — Prefiltro y diagnóstico vía WebFetch
 
-Para cada uno del pool, usá `WebFetch` sobre la home y evaluá señales rápidas:
-- ¿Carga o tira error / timeout?
-- ¿Redirige a una página de Facebook/Instagram en vez de tener sitio propio?
-- ¿HTTP sin HTTPS?
-- ¿Muy poco texto / HTML claramente viejo (tablas de layout, `<font>`, sin meta viewport)?
-- ¿Plantilla obviamente genérica y desactualizada?
+Para cada uno del pool, usá `WebFetch` sobre la home (pedile explícitamente que evalúe: si carga o tira error/timeout, si redirige a Facebook/Instagram en vez de tener sitio propio, si es HTTP sin HTTPS, cuánto texto/contenido real tiene, si el HTML se ve viejo — tablas de layout, `<font>`, sin meta viewport — o genérico/desactualizado, y cualquier señal roja concreta como imágenes rotas, links a `localhost`, doctypes antiguos, viewport no responsive, etc).
 
-Quedate con los **5 candidatos con peores señales**. Si hay empate, priorizá diversidad de rubro (no 5 restaurantes).
+Quedate con los **5 candidatos con peores señales**. Si hay empate, priorizá diversidad de rubro (no 5 restaurantes). Si algún dominio da error de red persistente (bot-blocking tipo Cloudflare, 403 reiterado) descartalo y reemplazalo por el siguiente candidato del pool — no lo cuentes como señal de mal sitio, es ruido de infraestructura.
 
-## Paso 4 — Recon completo (Playwright) sobre los 5 finalistas
-
-```bash
-"$PYBIN" "${SKILL_DIR}/scripts/recon.py" "<url>" "${REPO_ROOT}/leads/<fecha-YYYY-MM-DD>/<slug>/recon"
-```
-
-Esto genera `desktop.jpg`, `mobile.jpg`, `nojs.jpg`, `page.html`, `recon.json` — igual que en `cazador-de-webs`. **Leé los tres JPG con `Read`** (en paralelo) más `recon.json` antes de diagnosticar.
-
-## Paso 5 — Diagnóstico corto por candidato
+## Paso 4 — Diagnóstico corto por candidato
 
 Para cada uno, escribí `${REPO_ROOT}/leads/<fecha>/<slug>/diagnostico.md`:
 
@@ -76,9 +53,9 @@ Para cada uno, escribí `${REPO_ROOT}/leads/<fecha>/<slug>/diagnostico.md`:
 <1-2 líneas: qué tan urgente/vendible es este caso>
 ```
 
-No inventes problemas que no viste en las capturas — 3 a 5 bullets concretos alcanza, no hace falta el checklist completo de `cazador-de-webs` acá (eso se hace en detalle cuando el usuario elige avanzar con `/cazador-de-webs`).
+No inventes problemas que no viste en el HTML/contenido — 3 a 5 bullets concretos alcanza, no hace falta el checklist completo de `cazador-de-webs` acá (eso se hace en detalle cuando el usuario elige avanzar con `/cazador-de-webs`, que sí saca capturas reales).
 
-## Paso 6 — Reporte semanal + tracker
+## Paso 5 — Reporte semanal + tracker
 
 Creá `${REPO_ROOT}/leads/<fecha>/README.md`:
 
@@ -100,7 +77,7 @@ Agregá una fila por candidato a `${REPO_ROOT}/tracker.md` (creá el archivo con
 
 El usuario actualiza manualmente el campo "Estado" a medida que decide (descartado / en proceso con cazador-de-webs / ganado / perdido).
 
-## Paso 7 — Commit y push
+## Paso 6 — Commit y push
 
 ```bash
 cd "$REPO_ROOT"
@@ -117,9 +94,6 @@ git push
 
 ## Seguridad / límites
 
-- Un `WebFetch`/recon por candidato — no scraping agresivo, no loops en paralelo contra el mismo dominio.
+- Un `WebFetch` por candidato — no scraping agresivo, no loops en paralelo contra el mismo dominio.
 - Esta skill **nunca contacta al negocio** de ninguna forma (ni email, ni formulario, ni redes) — solo mira su sitio público. El outreach lo hace el usuario a mano, después, vía `cazador-de-webs`.
 - No repitas negocios que ya estén en `tracker.md`.
-- No commitees el venv ni binarios de Playwright/Chromium al repo.
-
-**Scripts:** `scripts/recon.py` (captura Playwright: desktop/mobile/no-js + señales técnicas — igual que en `cazador-de-webs`).
