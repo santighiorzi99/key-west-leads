@@ -12,3 +12,8 @@
 | Kino Sandals | Tienda de souvenirs / calzado artesanal | https://kinosandals.com/ | 2026-08-23 | leads/2026-08-23/kino-sandals/ | Candidato — pendiente de revisión |
 | Flow Spa Key West | Salón de belleza / spa | https://flowspakeywest.com/ | 2026-08-23 | leads/2026-08-23/flow-spa/ | Candidato — pendiente de revisión |
 | Tucker's Provisions | Tienda de souvenirs / general store | https://www.tuckersprovisions.com/ | 2026-08-23 | leads/2026-08-23/tuckers-provisions/ | Candidato — pendiente de revisión |
+| Origami Sushi Bar | Restaurante (sushi) | https://www.sushibarorigami.com/ | 2026-08-24 | leads/2026-08-24/origami-sushi-bar/ | Candidato — pendiente de revisión |
+| Cuban Coffee Queen | Cafetería | https://cubancoffeequeen.com/ | 2026-08-24 | leads/2026-08-24/cuban-coffee-queen/ | Candidato — pendiente de revisión |
+| The Smallest Bar | Bar | https://smallestbar.com/ | 2026-08-24 | leads/2026-08-24/smallest-bar/ | Candidato — pendiente de revisión |
+| Keys Coffee Co. | Cafetería | http://www.keyscoffee.co/ | 2026-08-24 | leads/2026-08-24/keys-coffee-co/ | Candidato — pendiente de revisión |
+| Geiger Key Marina & Smokehouse | Bar-restaurante (tiki bar) | https://geigerkeymarina.com/restaurant/ | 2026-08-24 | leads/2026-08-24/geiger-key-smokehouse/ | Candidato — pendiente de revisión |
