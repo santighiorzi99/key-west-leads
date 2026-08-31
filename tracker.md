@@ -17,3 +17,8 @@
 | The Smallest Bar | Bar | https://smallestbar.com/ | 2026-08-24 | leads/2026-08-24/smallest-bar/ | Candidato — pendiente de revisión |
 | Keys Coffee Co. | Cafetería | http://www.keyscoffee.co/ | 2026-08-24 | leads/2026-08-24/keys-coffee-co/ | Candidato — pendiente de revisión |
 | Geiger Key Marina & Smokehouse | Bar-restaurante (tiki bar) | https://geigerkeymarina.com/restaurant/ | 2026-08-24 | leads/2026-08-24/geiger-key-smokehouse/ | Candidato — pendiente de revisión |
+| Key West Cleaning Services by GiGi | Servicios (limpieza) | https://keywestcleaningbygigi.com/ | 2026-08-31 | leads/2026-08-31/key-west-cleaning-by-gigi/ | Candidato — pendiente de revisión |
+| Home Services Key West | Servicios (limpieza) | https://www.homeserviceskeywest.com/residential.html | 2026-08-31 | leads/2026-08-31/home-services-key-west/ | Candidato — pendiente de revisión |
+| White Street Pizza | Restaurante (pizzería) | https://www.whitestreetpizza.com/ | 2026-08-31 | leads/2026-08-31/white-street-pizza/ | Candidato — pendiente de revisión |
+| El Siboney Restaurant | Restaurante (cubano) | https://www.elsiboneyrestaurant.com/ | 2026-08-31 | leads/2026-08-31/el-siboney/ | Candidato — pendiente de revisión |
+| Cleaning Key West | Servicios (limpieza) | https://www.cleaningkeywest.com/ | 2026-08-31 | leads/2026-08-31/cleaning-key-west/ | Candidato — pendiente de revisión |
