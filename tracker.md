@@ -22,3 +22,8 @@
 | White Street Pizza | Restaurante (pizzería) | https://www.whitestreetpizza.com/ | 2026-08-31 | leads/2026-08-31/white-street-pizza/ | Candidato — pendiente de revisión |
 | El Siboney Restaurant | Restaurante (cubano) | https://www.elsiboneyrestaurant.com/ | 2026-08-31 | leads/2026-08-31/el-siboney/ | Candidato — pendiente de revisión |
 | Cleaning Key West | Servicios (limpieza) | https://www.cleaningkeywest.com/ | 2026-08-31 | leads/2026-08-31/cleaning-key-west/ | Candidato — pendiente de revisión |
+| Schooner Wharf Bar | Bar | https://www.schoonerwharf.com/ | 2026-09-07 | leads/2026-09-07/schooner-wharf-bar/ | Candidato — pendiente de revisión |
+| Key West Snorkeling Tours | Tours de buceo/snorkel/pesca | https://www.keywestsnorkelingtours.com/ | 2026-09-07 | leads/2026-09-07/key-west-snorkeling-tours/ | Candidato — pendiente de revisión |
+| SNUBA of Key West | Tours de buceo/snorkel/pesca | https://www.snubakeywest.com/ | 2026-09-07 | leads/2026-09-07/snuba-key-west/ | Candidato — pendiente de revisión |
+| Seventeen Stars | Tienda de ropa | https://www.seventeenstars.com/ | 2026-09-07 | leads/2026-09-07/seventeen-stars/ | Candidato — pendiente de revisión |
+| Low Key Fashion House | Tienda de ropa | https://lowkeyfh.com/ | 2026-09-07 | leads/2026-09-07/low-key-fashion-house/ | Candidato — pendiente de revisión |
