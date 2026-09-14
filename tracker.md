@@ -27,3 +27,8 @@
 | SNUBA of Key West | Tours de buceo/snorkel/pesca | https://www.snubakeywest.com/ | 2026-09-07 | leads/2026-09-07/snuba-key-west/ | Candidato — pendiente de revisión |
 | Seventeen Stars | Tienda de ropa | https://www.seventeenstars.com/ | 2026-09-07 | leads/2026-09-07/seventeen-stars/ | Candidato — pendiente de revisión |
 | Low Key Fashion House | Tienda de ropa | https://lowkeyfh.com/ | 2026-09-07 | leads/2026-09-07/low-key-fashion-house/ | Candidato — pendiente de revisión |
+| Island Massage and Day Spa | Salón de belleza / spa | https://www.islandmassageanddayspa.com/ | 2026-09-14 | leads/2026-09-14/island-massage-day-spa/ | Candidato — pendiente de revisión |
+| Margaret Truman Launderette | Servicios (lavandería) | https://islandcitycleaners.com/ | 2026-09-14 | leads/2026-09-14/margaret-truman-launderette/ | Candidato — pendiente de revisión |
+| Truman & Grinnell Coin Laundry | Servicios (lavandería) | https://www.trumanandgrinnell.com/ | 2026-09-14 | leads/2026-09-14/truman-grinnell-laundry/ | Candidato — pendiente de revisión |
+| Southernmost Nails & Spa | Salón de belleza / spa | https://southernmostnails.com/ | 2026-09-14 | leads/2026-09-14/southernmost-nails-spa/ | Candidato — pendiente de revisión |
+| The Gallery on Greene | Galería de arte | http://galleryongreene.com/ | 2026-09-14 | leads/2026-09-14/gallery-on-greene/ | Candidato — pendiente de revisión |
