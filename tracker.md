@@ -32,3 +32,8 @@
 | Truman & Grinnell Coin Laundry | Servicios (lavandería) | https://www.trumanandgrinnell.com/ | 2026-09-14 | leads/2026-09-14/truman-grinnell-laundry/ | Candidato — pendiente de revisión |
 | Southernmost Nails & Spa | Salón de belleza / spa | https://southernmostnails.com/ | 2026-09-14 | leads/2026-09-14/southernmost-nails-spa/ | Candidato — pendiente de revisión |
 | The Gallery on Greene | Galería de arte | http://galleryongreene.com/ | 2026-09-14 | leads/2026-09-14/gallery-on-greene/ | Candidato — pendiente de revisión |
+| Southernmost Gift Shop | Tienda de souvenirs | https://southernmostgiftshop.com/ | 2026-09-21 | leads/2026-09-21/southernmost-gift-shop/ | Candidato — pendiente de revisión |
+| Sandy's Cafe | Cafetería | https://www.sandyscafe.com/ | 2026-09-21 | leads/2026-09-21/sandys-cafe/ | Candidato — pendiente de revisión |
+| Key West Web Store | Tienda de souvenirs | https://www.keywestwebstore.com/ | 2026-09-21 | leads/2026-09-21/key-west-web-store/ | Candidato — pendiente de revisión |
+| Banana Cafe | Cafetería | https://bananacafekw.com/ | 2026-09-21 | leads/2026-09-21/banana-cafe/ | Candidato — pendiente de revisión |
+| Weatherstation Inn | Hotel boutique / guesthouse | https://www.weatherstationinn.com/ | 2026-09-21 | leads/2026-09-21/weatherstation-inn/ | Candidato — pendiente de revisión |
