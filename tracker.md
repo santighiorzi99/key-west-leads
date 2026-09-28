@@ -37,3 +37,8 @@
 | Key West Web Store | Tienda de souvenirs | https://www.keywestwebstore.com/ | 2026-09-21 | leads/2026-09-21/key-west-web-store/ | Candidato — pendiente de revisión |
 | Banana Cafe | Cafetería | https://bananacafekw.com/ | 2026-09-21 | leads/2026-09-21/banana-cafe/ | Candidato — pendiente de revisión |
 | Weatherstation Inn | Hotel boutique / guesthouse | https://www.weatherstationinn.com/ | 2026-09-21 | leads/2026-09-21/weatherstation-inn/ | Candidato — pendiente de revisión |
+| Purple Porpoise Pub | Bar | https://www.facebook.com/ppp33040/ (sin sitio propio) | 2026-09-28 | leads/2026-09-28/purple-porpoise-pub/ | Candidato — pendiente de revisión |
+| Bobby's Monkey Bar | Bar | http://bobby-s-monkey-bar.hub.biz | 2026-09-28 | leads/2026-09-28/bobbys-monkey-bar/ | Candidato — pendiente de revisión |
+| Fish Key West | Tours de pesca | https://www.fishkeywest.com/ | 2026-09-28 | leads/2026-09-28/fish-key-west/ | Candidato — pendiente de revisión |
+| Fish 'N Chicks & Nauti Buoys Charters | Tours de pesca | https://fishnchickskeywest.com/ | 2026-09-28 | leads/2026-09-28/fish-n-chicks-charters/ | Candidato — pendiente de revisión |
+| Two Friends Patio | Restaurante | https://twofriends.com/ | 2026-09-28 | leads/2026-09-28/two-friends-patio/ | Candidato — pendiente de revisión |
