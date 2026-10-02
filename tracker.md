@@ -42,3 +42,8 @@
 | Fish Key West | Tours de pesca | https://www.fishkeywest.com/ | 2026-09-28 | leads/2026-09-28/fish-key-west/ | Candidato — pendiente de revisión |
 | Fish 'N Chicks & Nauti Buoys Charters | Tours de pesca | https://fishnchickskeywest.com/ | 2026-09-28 | leads/2026-09-28/fish-n-chicks-charters/ | Candidato — pendiente de revisión |
 | Two Friends Patio | Restaurante | https://twofriends.com/ | 2026-09-28 | leads/2026-09-28/two-friends-patio/ | Candidato — pendiente de revisión |
+| Pirate Scooter Rentals | Alquiler de scooters/mopeds | https://www.piratescooterrentals.com/ | 2026-10-02 | leads/2026-10-02/pirate-scooter-rentals/ | Candidato — pendiente de revisión |
+| Scooter Rentals Key West | Alquiler de scooters/mopeds | https://www.scooterrentalskeywest.com/ | 2026-10-02 | leads/2026-10-02/scooter-rentals-key-west/ | Candidato — pendiente de revisión |
+| Key West Collective | Galería de arte | https://www.keywestcollective.com/ | 2026-10-02 | leads/2026-10-02/key-west-collective/ | Candidato — pendiente de revisión |
+| Hollē Fine Art Gallery | Galería de arte | https://hollefineart.com/ | 2026-10-02 | leads/2026-10-02/holle-fine-art-gallery/ | Candidato — pendiente de revisión |
+| Commotion (Local Color Key West) | Tienda de ropa / boutique | https://www.localcolorkeywest.com/commotion/ | 2026-10-02 | leads/2026-10-02/commotion-key-west/ | Candidato — pendiente de revisión |
