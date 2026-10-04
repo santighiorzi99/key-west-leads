@@ -4,8 +4,8 @@ Pipeline de prospección de negocios locales de Key West con sitios web que nece
 
 Cada corrida:
 1. Busca ~15-20 negocios de Key West en 2-3 rubros distintos.
-2. Prefiltra a los 5 con peores señales de sitio web (viejo, sin HTTPS, se rompe sin JS, sin sitio propio, etc.).
-3. Corre recon completo (capturas desktop/mobile/no-js + señales técnicas) sobre esos 5.
+2. Verifica cada sitio con `curl` (HTML real: caído, sin viewport, placeholders sin renderizar, copyright viejo, etc.) y lee su contenido con `WebFetch`. No saca capturas: el sandbox en la nube no puede correr Chromium.
+3. Elige los 5 mejores combinando gravedad verificada del problema y valor del negocio.
 4. Escribe un diagnóstico corto por candidato y actualiza `tracker.md`.
 
 Resultados en `leads/<fecha>/`. El estado de cada lead (candidato / en proceso / ganado / perdido) se actualiza a mano en `tracker.md`.

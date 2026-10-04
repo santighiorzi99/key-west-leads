@@ -41,9 +41,18 @@
 | Bobby's Monkey Bar | Bar | http://bobby-s-monkey-bar.hub.biz | 2026-09-28 | leads/2026-09-28/bobbys-monkey-bar/ | Candidato — pendiente de revisión |
 | Fish Key West | Tours de pesca | https://www.fishkeywest.com/ | 2026-09-28 | leads/2026-09-28/fish-key-west/ | Candidato — pendiente de revisión |
 | Fish 'N Chicks & Nauti Buoys Charters | Tours de pesca | https://fishnchickskeywest.com/ | 2026-09-28 | leads/2026-09-28/fish-n-chicks-charters/ | Candidato — pendiente de revisión |
-| Two Friends Patio | Restaurante | https://twofriends.com/ | 2026-09-28 | leads/2026-09-28/two-friends-patio/ | Candidato — pendiente de revisión |
+| Two Friends Patio | Restaurante | https://twofriends.com/ | 2026-09-28 | leads/2026-09-28/two-friends-patio/ | Descartado — ya tiene agencia (Overseas Media Group) |
 | Pirate Scooter Rentals | Alquiler de scooters/mopeds | https://www.piratescooterrentals.com/ | 2026-10-02 | leads/2026-10-02/pirate-scooter-rentals/ | Candidato — pendiente de revisión |
 | Scooter Rentals Key West | Alquiler de scooters/mopeds | https://www.scooterrentalskeywest.com/ | 2026-10-02 | leads/2026-10-02/scooter-rentals-key-west/ | Candidato — pendiente de revisión |
 | Key West Collective | Galería de arte | https://www.keywestcollective.com/ | 2026-10-02 | leads/2026-10-02/key-west-collective/ | Candidato — pendiente de revisión |
 | Hollē Fine Art Gallery | Galería de arte | https://hollefineart.com/ | 2026-10-02 | leads/2026-10-02/holle-fine-art-gallery/ | Candidato — pendiente de revisión |
 | Commotion (Local Color Key West) | Tienda de ropa / boutique | https://www.localcolorkeywest.com/commotion/ | 2026-10-02 | leads/2026-10-02/commotion-key-west/ | Candidato — pendiente de revisión |
+| Pickles Pub's Sandbar | Bar | https://www.picklespubsandbar.com/ | 2026-10-04 | leads/2026-10-02-manual/pickles-pub-sandbar/ | Candidato — pendiente de revisión |
+| Duffy's Steak & Lobster House | Restaurante (steakhouse) | https://www.duffyskeywest.com/ | 2026-10-04 | leads/2026-10-02-manual/duffys-steak-lobster/ | Candidato — pendiente de revisión |
+| DL Porter Construction | Constructora | https://dlporter.com/ | 2026-10-04 | leads/2026-10-02-manual/dl-porter-construction/ | Candidato — pendiente de revisión |
+| Birkenstock of Old Town | Tienda de calzado | http://www.birkenstore.com/ | 2026-10-04 | leads/2026-10-02-manual/birkenstock-old-town/ | Candidato — pendiente de revisión |
+| Kaya Island Eats | Restaurante | http://www.kayakeywest.com/ | 2026-10-04 | leads/2026-10-02-manual/kaya-island-eats/ | Candidato — pendiente de revisión |
+| Tattoos & Scars Saloon | Bar | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/tattoos-scars-saloon/ | Candidato — pendiente de revisión |
+| Key West Treasure Chest | Joyería | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/key-west-treasure-chest/ | Candidato — pendiente de revisión |
+| Domestic Electric LLC | Servicios (electricista) | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/domestic-electric/ | Candidato — pendiente de revisión |
+| Key Iron Works | Herrería / contratista | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/key-iron-works/ | Candidato — pendiente de revisión |
