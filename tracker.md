@@ -56,3 +56,8 @@
 | Key West Treasure Chest | Joyería | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/key-west-treasure-chest/ | Candidato — pendiente de revisión |
 | Domestic Electric LLC | Servicios (electricista) | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/domestic-electric/ | Candidato — pendiente de revisión |
 | Key Iron Works | Herrería / contratista | (sin sitio propio) | 2026-10-04 | leads/2026-10-02-manual/key-iron-works/ | Candidato — pendiente de revisión |
+| The Grand Guesthouse | Hotel boutique / guesthouse | https://www.thegrandguesthouse.com | 2026-10-05 | leads/2026-10-05/the-grand-guesthouse/ | Candidato — pendiente de revisión |
+| Invasive Species Removal of Key West, LLC | Servicios (control de iguanas/fauna invasora) | http://www.invasivespeciesremoval.com | 2026-10-05 | leads/2026-10-05/invasive-species-removal-key-west/ | Candidato — pendiente de revisión |
+| Pirate Paradise | Tienda de souvenirs / ropa | (sin sitio propio) | 2026-10-05 | leads/2026-10-05/pirate-paradise/ | Candidato — pendiente de revisión |
+| Zero Mile Art | Galería de arte / souvenirs | https://www.facebook.com/0mileart/ (sin sitio propio) | 2026-10-05 | leads/2026-10-05/zero-mile-art/ | Candidato — pendiente de revisión |
+| Caribbean House Hotel | Hotel boutique / guesthouse | https://www.caribbeanhousekw.com | 2026-10-05 | leads/2026-10-05/caribbean-house-hotel/ | Candidato — pendiente de revisión |
