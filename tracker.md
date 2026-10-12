@@ -61,3 +61,8 @@
 | Pirate Paradise | Tienda de souvenirs / ropa | (sin sitio propio) | 2026-10-05 | leads/2026-10-05/pirate-paradise/ | Candidato — pendiente de revisión |
 | Zero Mile Art | Galería de arte / souvenirs | https://www.facebook.com/0mileart/ (sin sitio propio) | 2026-10-05 | leads/2026-10-05/zero-mile-art/ | Candidato — pendiente de revisión |
 | Caribbean House Hotel | Hotel boutique / guesthouse | https://www.caribbeanhousekw.com | 2026-10-05 | leads/2026-10-05/caribbean-house-hotel/ | Candidato — pendiente de revisión |
+| Prana Spa | Salón de belleza / spa | https://www.pranaspakeywest.com/ | 2026-10-12 | leads/2026-10-12/prana-spa/ | Candidato — pendiente de revisión |
+| Ocean Wellness Spa and Salon | Salón de belleza / spa | https://www.oceanspakeywest.com/ | 2026-10-12 | leads/2026-10-12/ocean-wellness-spa/ | Candidato — pendiente de revisión |
+| The Green Pineapple | Tienda de ropa / boutique + cafetería | https://greenpineapplekw.com/ | 2026-10-12 | leads/2026-10-12/green-pineapple/ | Candidato — pendiente de revisión |
+| Key West Swimwear | Tienda de ropa (trajes de baño) | https://keywestswimwear.com/ | 2026-10-12 | leads/2026-10-12/key-west-swimwear/ | Candidato — pendiente de revisión |
+| Date & Thyme | Cafetería / market orgánico | https://www.dateandthyme.com/ | 2026-10-12 | leads/2026-10-12/date-and-thyme/ | Candidato — pendiente de revisión |
