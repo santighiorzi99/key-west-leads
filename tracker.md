@@ -66,3 +66,8 @@
 | The Green Pineapple | Tienda de ropa / boutique + cafetería | https://greenpineapplekw.com/ | 2026-10-12 | leads/2026-10-12/green-pineapple/ | Candidato — pendiente de revisión |
 | Key West Swimwear | Tienda de ropa (trajes de baño) | https://keywestswimwear.com/ | 2026-10-12 | leads/2026-10-12/key-west-swimwear/ | Candidato — pendiente de revisión |
 | Date & Thyme | Cafetería / market orgánico | https://www.dateandthyme.com/ | 2026-10-12 | leads/2026-10-12/date-and-thyme/ | Candidato — pendiente de revisión |
+| Captain Tony's Saloon | Bar | https://www.captaintonyssaloon.com | 2026-10-19 | leads/2026-10-19/captain-tonys-saloon/ | Candidato — pendiente de revisión |
+| Silver Tide Charters | Tours de pesca | https://silvertidecharters.com | 2026-10-19 | leads/2026-10-19/silver-tide-charters/ | Candidato — pendiente de revisión |
+| Always Somethin' Charters | Tours de pesca | https://fishingbooker.com/charters/view/22534 (sin sitio propio) | 2026-10-19 | leads/2026-10-19/always-somethin-charters/ | Candidato — pendiente de revisión |
+| Endless Summer Fishing Charters | Tours de pesca | https://endlesssummerfishingcharters.com | 2026-10-19 | leads/2026-10-19/endless-summer-fishing-charters/ | Candidato — pendiente de revisión |
+| Reef Runner Charters Key West | Tours de pesca | https://www.reefrunnercharters.com | 2026-10-19 | leads/2026-10-19/reef-runner-charters/ | Candidato — pendiente de revisión |
