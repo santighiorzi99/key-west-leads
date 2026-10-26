@@ -71,3 +71,8 @@
 | Always Somethin' Charters | Tours de pesca | https://fishingbooker.com/charters/view/22534 (sin sitio propio) | 2026-10-19 | leads/2026-10-19/always-somethin-charters/ | Candidato — pendiente de revisión |
 | Endless Summer Fishing Charters | Tours de pesca | https://endlesssummerfishingcharters.com | 2026-10-19 | leads/2026-10-19/endless-summer-fishing-charters/ | Candidato — pendiente de revisión |
 | Reef Runner Charters Key West | Tours de pesca | https://www.reefrunnercharters.com | 2026-10-19 | leads/2026-10-19/reef-runner-charters/ | Candidato — pendiente de revisión |
+| Croissants De France | Cafetería / panadería francesa | https://www.croissantsdefrance.com/ | 2026-10-26 | leads/2026-10-26/croissants-de-france/ | Candidato — pendiente de revisión |
+| Honest Eco | Tours de snorkel / dolphin watch | https://www.honesteco.com/ | 2026-10-26 | leads/2026-10-26/honest-eco-tours/ | Candidato — pendiente de revisión |
+| Key West Shell Warehouse | Tienda de souvenirs | (sin sitio propio — Facebook vía directorio oficial) | 2026-10-26 | leads/2026-10-26/key-west-shell-warehouse/ | Candidato — pendiente de revisión |
+| Fausto's Food Palace | Tienda de alimentos / mercado histórico | https://www.faustos.com/ | 2026-10-26 | leads/2026-10-26/faustos-food-palace/ | Candidato — pendiente de revisión (tiene crédito de agencia, a confirmar) |
+| BO's Fish Wagon | Restaurante (seafood shack) | https://www.bosfishwagon.com/ | 2026-10-26 | leads/2026-10-26/bos-fish-wagon/ | Candidato — pendiente de revisión (tiene crédito de agencia, a confirmar) |
