@@ -76,3 +76,8 @@
 | Key West Shell Warehouse | Tienda de souvenirs | (sin sitio propio — Facebook vía directorio oficial) | 2026-10-26 | leads/2026-10-26/key-west-shell-warehouse/ | Candidato — pendiente de revisión |
 | Fausto's Food Palace | Tienda de alimentos / mercado histórico | https://www.faustos.com/ | 2026-10-26 | leads/2026-10-26/faustos-food-palace/ | Candidato — pendiente de revisión (tiene crédito de agencia, a confirmar) |
 | BO's Fish Wagon | Restaurante (seafood shack) | https://www.bosfishwagon.com/ | 2026-10-26 | leads/2026-10-26/bos-fish-wagon/ | Candidato — pendiente de revisión (tiene crédito de agencia, a confirmar) |
+| Key West Dive Center | Tours de buceo/snorkel | https://www.keywestdivecenter.com/ | 2026-11-02 | leads/2026-11-02/key-west-dive-center/ | Candidato — pendiente de revisión |
+| Fast Buck Freddie's (Fast Bucks at Home) | Tienda de souvenirs / department store | https://www.fastbuckfreddies.com/ | 2026-11-02 | leads/2026-11-02/fast-buck-freddies/ | Candidato — pendiente de revisión |
+| Lucky Street Gallery | Galería de arte | https://www.luckystreetgallery.com/ | 2026-11-02 | leads/2026-11-02/lucky-street-gallery/ | Candidato — pendiente de revisión |
+| Island Style Galleries | Galería de arte / artesanías | https://www.islandstylegalleries.com/ | 2026-11-02 | leads/2026-11-02/island-style-galleries/ | Candidato — pendiente de revisión |
+| Leviathan Key West | Servicios (tatuajes/piercing) | https://www.leviathankeywest.com/ | 2026-11-02 | leads/2026-11-02/leviathan-key-west/ | Candidato — pendiente de revisión |
