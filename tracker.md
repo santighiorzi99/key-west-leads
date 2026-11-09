@@ -81,3 +81,8 @@
 | Lucky Street Gallery | Galería de arte | https://www.luckystreetgallery.com/ | 2026-11-02 | leads/2026-11-02/lucky-street-gallery/ | Candidato — pendiente de revisión |
 | Island Style Galleries | Galería de arte / artesanías | https://www.islandstylegalleries.com/ | 2026-11-02 | leads/2026-11-02/island-style-galleries/ | Candidato — pendiente de revisión |
 | Leviathan Key West | Servicios (tatuajes/piercing) | https://www.leviathankeywest.com/ | 2026-11-02 | leads/2026-11-02/leviathan-key-west/ | Candidato — pendiente de revisión |
+| Papa Scooters | Alquiler de bicis/scooters | http://www.papascooters.com | 2026-11-09 | leads/2026-11-09/papa-scooters/ | Candidato — pendiente de revisión |
+| Key West Moped | Alquiler de bicis/scooters | http://www.keywestmoped.com | 2026-11-09 | leads/2026-11-09/key-west-moped/ | Candidato — pendiente de revisión |
+| Evan & Elle | Tienda de ropa | (sin sitio propio) | 2026-11-09 | leads/2026-11-09/evan-and-elle/ | Candidato — pendiente de revisión |
+| Island Boutique | Tienda de ropa | (sin sitio propio) | 2026-11-09 | leads/2026-11-09/island-boutique/ | Candidato — pendiente de revisión |
+| Mix Mercantile | Tienda de ropa | (sin sitio propio) | 2026-11-09 | leads/2026-11-09/mix-mercantile/ | Candidato — pendiente de revisión |
