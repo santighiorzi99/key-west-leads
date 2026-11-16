@@ -86,3 +86,8 @@
 | Evan & Elle | Tienda de ropa | (sin sitio propio) | 2026-11-09 | leads/2026-11-09/evan-and-elle/ | Candidato — pendiente de revisión |
 | Island Boutique | Tienda de ropa | (sin sitio propio) | 2026-11-09 | leads/2026-11-09/island-boutique/ | Candidato — pendiente de revisión |
 | Mix Mercantile | Tienda de ropa | (sin sitio propio) | 2026-11-09 | leads/2026-11-09/mix-mercantile/ | Candidato — pendiente de revisión |
+| Grand Cafe Key West | Restaurante | https://grandcafekeywest.com/ | 2026-11-16 | leads/2026-11-16/grand-cafe-key-west/ | Candidato — pendiente de revisión |
+| Eden House | Hotel boutique / guesthouse | https://www.edenhouse.com/ | 2026-11-16 | leads/2026-11-16/eden-house/ | Candidato — pendiente de revisión |
+| Don's Place | Bar | https://www.donsplacekeywest.com/ | 2026-11-16 | leads/2026-11-16/dons-place/ | Candidato — pendiente de revisión |
+| Turtle Kraals | Restaurante / bar | https://turtlekraals.com/ | 2026-11-16 | leads/2026-11-16/turtle-kraals/ | Candidato — pendiente de revisión |
+| Shots and Giggles | Bar | https://shotsandgiggleskeywest.com/ | 2026-11-16 | leads/2026-11-16/shots-and-giggles/ | Candidato — pendiente de revisión |
