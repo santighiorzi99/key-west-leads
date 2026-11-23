@@ -91,3 +91,8 @@
 | Don's Place | Bar | https://www.donsplacekeywest.com/ | 2026-11-16 | leads/2026-11-16/dons-place/ | Candidato — pendiente de revisión |
 | Turtle Kraals | Restaurante / bar | https://turtlekraals.com/ | 2026-11-16 | leads/2026-11-16/turtle-kraals/ | Candidato — pendiente de revisión |
 | Shots and Giggles | Bar | https://shotsandgiggleskeywest.com/ | 2026-11-16 | leads/2026-11-16/shots-and-giggles/ | Candidato — pendiente de revisión |
+| Coffee Plantation | Cafetería | https://coffeeplantationkeywest.com/ | 2026-11-23 | leads/2026-11-23/coffee-plantation/ | Candidato — pendiente de revisión |
+| The Heron House Hotel | Hotel boutique / guesthouse | https://theheronhousehotel.com/ | 2026-11-23 | leads/2026-11-23/heron-house-hotel/ | Candidato — pendiente de revisión |
+| Caribbean Coffee Roasters | Cafetería / tostadero | https://www.caribbeancoffeeroasterskeywest.com/ | 2026-11-23 | leads/2026-11-23/caribbean-coffee-roasters/ | Candidato — pendiente de revisión |
+| Amri Day Spa, Salon & Boutique | Salón de belleza / spa | https://www.amrikeywest.com/ | 2026-11-23 | leads/2026-11-23/amri-day-spa/ | Candidato — pendiente de revisión |
+| Nailtini Nail Bar & Day Spa | Salón de belleza / spa (uñas) | https://nailtinikeywest.com/ | 2026-11-23 | leads/2026-11-23/nailtini-nail-bar-spa/ | Candidato — pendiente de revisión |
